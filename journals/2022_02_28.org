@@ -1,0 +1,3 @@
+* Some note
+* Some other note with a link [[somewhere]]
+*
